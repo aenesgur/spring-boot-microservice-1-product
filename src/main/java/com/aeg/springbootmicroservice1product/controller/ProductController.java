@@ -1,7 +1,6 @@
 package com.aeg.springbootmicroservice1product.controller;
 
 import com.aeg.springbootmicroservice1product.model.Product;
-import com.aeg.springbootmicroservice1product.repository.IProductRepository;
 import com.aeg.springbootmicroservice1product.service.IProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
